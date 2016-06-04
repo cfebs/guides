@@ -66,7 +66,7 @@ Now try to ssh to it.
 
 ### Windows
 
-**ssh clients***
+**ssh clients**
 - putty tray: https://github.com/FauxFaux/PuTTYTray/releases
 - chrome secure shell: https://goo.gl/XWXWrI
 
